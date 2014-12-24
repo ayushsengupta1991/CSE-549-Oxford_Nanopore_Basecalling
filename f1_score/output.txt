@@ -1,0 +1,16 @@
+
+Precision
+
+Precision Sum = 26.755
+Recall
+
+Recall Sum = 26.6675
+
+F1
+
+F1 Sum = 26.7099
+
+127892 232
+
+Everthing fine!!
+

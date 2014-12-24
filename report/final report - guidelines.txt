@@ -1,0 +1,6 @@
+The final course project
+— since it constitutes a significant fraction of the grade — should represent a substantial investment of
+time. I expect that this project will be done in small groups. The deliverables will include a short (8 —
+10 page) writeup, which should be a publishable quality document, even if we do not end up publishing it.
+The deliverables will also include any related software (if applicable) and / or analysis scripts & data (if
+applicable).

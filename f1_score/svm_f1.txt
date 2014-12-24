@@ -1,0 +1,16 @@
+
+Precision
+
+Precision Sum = 1.15389
+Recall
+
+Recall Sum = 1.07268
+
+F1
+
+F1 Sum = 1.08323
+No correct = 401
+Total no = 67746
+
+Everthing fine!!
+
